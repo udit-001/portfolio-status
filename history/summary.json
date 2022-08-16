@@ -4,17 +4,17 @@
     "url": "https://uditmittal.com",
     "icon": "https://favicons.githubusercontent.com/uditmittal.com",
     "slug": "udit-mittal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1317,
-    "timeDay": 5024,
-    "timeWeek": 1606,
-    "timeMonth": 1317,
-    "timeYear": 1317,
+    "time": 1228,
+    "timeDay": 3404,
+    "timeWeek": 1446,
+    "timeMonth": 1228,
+    "timeYear": 1228,
     "dailyMinutesDown": {}
   }
 ]
