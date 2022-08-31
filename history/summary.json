@@ -4,19 +4,19 @@
     "url": "https://uditmittal.com",
     "icon": "https://favicons.githubusercontent.com/uditmittal.com",
     "slug": "udit-mittal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 189,
-    "timeWeek": 190,
-    "timeMonth": 737,
-    "timeYear": 737,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 772,
+    "timeDay": 969,
+    "timeWeek": 385,
+    "timeMonth": 772,
+    "timeYear": 772,
     "dailyMinutesDown": {
-      "2022-08-31": 0
+      "2022-08-31": 22
     }
   }
 ]
