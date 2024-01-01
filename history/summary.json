@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/uditmittal.com.ico",
     "slug": "udit-mittal",
     "status": "up",
-    "uptime": "49.76%",
+    "uptime": "49.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.30%",
-    "uptimeYear": "30.78%",
+    "uptimeYear": "31.06%",
     "time": 309,
-    "timeDay": 382,
-    "timeWeek": 224,
-    "timeMonth": 239,
+    "timeDay": 322,
+    "timeWeek": 248,
+    "timeMonth": 247,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2023-12-21": 1279,
@@ -269,8 +269,7 @@
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
-      "2023-01-02": 1440,
-      "2023-01-01": 1440
+      "2023-01-02": 1440
     }
   }
 ]
