@@ -6,17 +6,16 @@
     "slug": "udit-mittal",
     "status": "up",
     "uptime": "78.04%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "64.31%",
-    "uptimeMonth": "85.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "65.55%",
+    "uptimeMonth": "85.06%",
     "uptimeYear": "98.65%",
     "time": 432,
-    "timeDay": 302,
-    "timeWeek": 327,
-    "timeMonth": 439,
+    "timeDay": 285,
+    "timeWeek": 320,
+    "timeMonth": 437,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2025-11-24": 5,
       "2025-11-23": 15,
       "2025-11-20": 624,
       "2025-11-19": 1440,
@@ -55,8 +54,7 @@
       "2024-12-05": 21,
       "2024-11-29": 92,
       "2024-11-28": 15,
-      "2024-11-27": 17,
-      "2024-11-25": 20
+      "2024-11-27": 17
     }
   }
 ]
