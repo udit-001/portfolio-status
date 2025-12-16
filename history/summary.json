@@ -4,7 +4,7 @@
     "url": "https://uditmittal.com",
     "icon": "https://icons.duckduckgo.com/ip3/uditmittal.com.ico",
     "slug": "udit-mittal",
-    "status": "up",
+    "status": "down",
     "uptime": "78.38%",
     "uptimeDay": "98.58%",
     "uptimeWeek": "96.66%",
@@ -12,7 +12,7 @@
     "uptimeYear": "98.56%",
     "time": 444,
     "timeDay": 402,
-    "timeWeek": 394,
+    "timeWeek": 397,
     "timeMonth": 414,
     "timeYear": 433,
     "dailyMinutesDown": {
